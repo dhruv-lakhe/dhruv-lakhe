@@ -26,3 +26,24 @@ Databases:   MySQL, PostgreSQL, Firebase
 DevOps:      Docker, Git, IIS, Bash scripting
 Cloud:       Azure (VMs, DB Hosting, Deployment)
 Concepts:    Algorithms, System Design, Multithreading, OOP
+
+
+
+---
+
+📝 **Blogs & Technical Writing**
+
+I enjoy breaking down what I learn — from backend systems to DevOps to real-world debugging lessons. Here are some of my blogs and write-ups:
+
+| Title | Platform | Link |
+|-------|----------|------|
+| 🔍 *How I Resolved a Live Production Outage in 3 Hours* | GitHub Blog / Medium | [Read](#) |
+| 🧠 *Building an Internal ERP from Scratch using Django + IIS* | GitHub Pages | [Read](#) |
+| 🐳 *Dockerizing Django: Production Checklist* | Medium | [Read](#) |
+| 🤖 *Chatting with Databases using LangChain & SQL Agents* | Hashnode | [Read](#) |
+| 🔐 *RSA from Scratch with FaceKey Encryption* | GitHub Blog | [Read](#) |
+
+> 💡 *Blogs coming soon at:* [dhruv-lakhe.github.io](https://dhruv-lakhe.github.io)
+
+---
+
