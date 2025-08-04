@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Dhruv Lakhe</h1>
+<h3 align="center">Backend Developer | Cloud Enthusiast | DevOps Learner</h3>
 
-<!--
-**dhruv-lakhe/dhruv-lakhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:lakhedhruv@outlook.com"><img src="https://img.shields.io/badge/Email-lakhedhruv@outlook.com-blue?logo=gmail&style=flat-square" /></a>
+  <a href="https://linkedin.com/in/dhruv-lakhe"><img src="https://img.shields.io/badge/LinkedIn-dhruv--lakhe-blue?logo=linkedin&style=flat-square" /></a>
+  <a href="https://github.com/dhruv-lakhe"><img src="https://img.shields.io/github/followers/dhruv-lakhe?label=GitHub&style=social" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **About Me**
+- 🎓 Final-year Computer Engineering student at **Bharati Vidyapeeth, Pune**
+- 🧠 Passionate about backend systems, automation, infrastructure, and DevOps
+- 💻 Built an internal ERP used in production to reduce 90% manual workflows at Ashay Infotech
+- 🌐 Experienced with deploying cloud solutions on **Azure**, managing VMs, DBs, and on-prem setups
+- 🛠️ Loves solving real business problems with code, systems, and a dash of Python scripting
+
+---
+
+🧰 **Tech Stack**
+```bash
+Languages:   Python, Java, SQL
+Frameworks:  Django, Spring Boot, REST APIs
+Databases:   MySQL, PostgreSQL, Firebase
+DevOps:      Docker, Git, IIS, Bash scripting
+Cloud:       Azure (VMs, DB Hosting, Deployment)
+Concepts:    Algorithms, System Design, Multithreading, OOP
