@@ -40,15 +40,16 @@ Concepts:    Algorithms, System Design, Multithreading, OOP
 
 I enjoy breaking down what I learn — from backend systems to DevOps to real-world debugging lessons. Here are some of my blogs and write-ups:
 
-| Title | Platform | Link |
-|-------|----------|------|
-| 🔍 *How I Resolved a Live Production Outage in 3 Hours* | GitHub Blog / Medium | [Read](#) |
-| 🧠 *Building an Internal ERP from Scratch using Django + IIS* | GitHub Pages | [Read](#) |
-| 🐳 *Dockerizing Django: Production Checklist* | Medium | [Read](#) |
-| 🤖 *Chatting with Databases using LangChain & SQL Agents* | Hashnode | [Read](#) |
-| 🔐 *RSA from Scratch with FaceKey Encryption* | GitHub Blog | [Read](#) |
+| Title                                                                 | Platform         | Blog Link                                                                                       | GitHub Link                  |
+|----------------------------------------------------------------------|------------------|--------------------------------------------------------------------------------------------------|------------------------------|
+| 🔍 *How I Resolved a Live Production Outage in 3 Hours*              | GitHub Blog / Medium | [Read](#)                                                                                         | [GitHub](#)                  |
+| 🧠 *Building a Scalable Internal ERP System with Django + IIS*       | GitHub Pages     | [Read](https://v0-dhruv-lakhe-portfolio.vercel.app/blog/building-a-scalable-internal-erp-system-with-djang) | [GitHub](#)                  |
+| 🐳 *Dockerizing Django: Production Checklist*                        | Medium           | [Read](#)                                                                                         | [GitHub](#)                  |
+| 🤖 *Chatting with Databases using LangChain & SQL Agents*            | Hashnode         | [Read](#)                                                                                         | [GitHub](#)                  |
+| 🔐 *RSA from Scratch with FaceKey Encryption*                        | GitHub Blog      | [Read](#)                                                                                         | [GitHub](#)                  |
 
 > 💡 *Blogs coming soon at:* [dhruv-lakhe.github.io](https://dhruv-lakhe.github.io)
+
 
 ---
 
