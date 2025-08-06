@@ -42,13 +42,13 @@ I enjoy breaking down what I learn — from backend systems to DevOps to real-wo
 
 | Title                                                                 | Platform         | Blog Link                                                                                       | GitHub Link                  |
 |----------------------------------------------------------------------|------------------|--------------------------------------------------------------------------------------------------|------------------------------|
-| 🔍 *How I Resolved a Live Production Outage in 3 Hours*              | Personal Blog  | [Read]([#](https://v0-dhruv-lakhe-portfolio.vercel.app/blog/how-i-resolved-a-live-production-outage-in-3-hours))                                                                                         | [GitHub](#)                  |
-| 🧠 *Building a Scalable Internal ERP System with Django + IIS*       | Personal Blog      | [Read](https://v0-dhruv-lakhe-portfolio.vercel.app/blog/building-a-scalable-internal-erp-system-with-djang) | [GitHub](#)                  |
+| 🔍 *How I Resolved a Live Production Outage in 3 Hours*              | Personal Blog    | [Read](https://v0-dhruv-lakhe-portfolio.vercel.app/blog/how-i-resolved-a-live-production-outage-in-3-hours) | [GitHub](#)                  |
+| 🧠 *Building a Scalable Internal ERP System with Django + IIS*       | Personal Blog    | [Read](https://v0-dhruv-lakhe-portfolio.vercel.app/blog/building-a-scalable-internal-erp-system-with-djang) | [GitHub](#)                  |
 | 🐳 *Dockerizing Django: Production Checklist*                        | Medium           | [Read](#)                                                                                         | [GitHub](#)                  |
 | 🤖 *Chatting with Databases using LangChain & SQL Agents*            | Hashnode         | [Read](#)                                                                                         | [GitHub](#)                  |
 | 🔐 *RSA from Scratch with FaceKey Encryption*                        | GitHub Blog      | [Read](#)                                                                                         | [GitHub](#)                  |
+> 💡 *Blogs at:* [v0-dhruv-lakhe-portfolio.vercel.app/blog](https://v0-dhruv-lakhe-portfolio.vercel.app/blog)
 
-> 💡 *Blogs coming soon at:* [dhruv-lakhe.github.io](https://dhruv-lakhe.github.io)
 
 
 ---
