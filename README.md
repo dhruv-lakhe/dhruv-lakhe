@@ -47,7 +47,7 @@ I enjoy breaking down what I learn — from backend systems to DevOps to real-wo
 | 🐳 *Dockerizing Django: Production Checklist*                        | Medium           | [Read](#)                                                                                         | [GitHub](#)                  |
 | 🤖 *Chatting with Databases using LangChain & SQL Agents*            | Hashnode         | [Read](#)                                                                                         | [GitHub](#)                  |
 | 🔐 *RSA from Scratch with FaceKey Encryption*                        | GitHub Blog      | [Read](#)                                                                                         | [GitHub](#)                  |
-| 📚 *AI-Powered Course Recommender System using Streamlit & NLP*      | GitHub Project   | [Read](#)                                                                                         | [GitHub](https://github.com/dhruv-lakhe/course-recommender) |
+| 📚 *Attendance Sheet Generator AppP*      | GitHub Project   | [Read](#)                                                                                         | [GitHub](https://github.com/dhruv-lakhe/attendancesheetgeneratorapp) |
 
 > 💡 *Blogs at:* [v0-dhruv-lakhe-portfolio.vercel.app/blog](https://v0-dhruv-lakhe-portfolio.vercel.app/blog)
 
